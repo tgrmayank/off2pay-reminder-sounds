@@ -1,11 +1,11 @@
 {
   "notifications": [
     {
-      "id": "OFF2PAY_INSTANT_1004",
+      "id": "OFF2PAY_NOW_20261028_01",
       "enabled": true,
-      "title": "Off2Pay Reminder 🔔",
-      "message": "Your notification is here!",
-      "big_text": "Off2Pay app open notification test successful.",
+      "title": "Off2Pay 🔔",
+      "message": "Your notification is working!",
+      "big_text": "This is an instant notification test for Off2Pay.",
       "send_after": "2026-10-28T00:00:00+05:30",
       "expires_at": "2026-11-30T23:59:59+05:30",
       "priority": "high"
