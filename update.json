@@ -3,7 +3,7 @@
   "package_name": "com.tgr.off2pay",
   "latest_version": "1.1.0",
   "version_code": 3,
-  "update_available": true,
+  "update_available": false,
   "force_update": false,
   "update_title": "New Off2Pay Update Available",
   "update_message": "A new version of Off2Pay is available.",
