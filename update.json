@@ -20,7 +20,7 @@
     "Enhanced biometric authentication"
   ],
 
-  "apk_url": "https://example.com/Off2Pay-v1.1.0.apk",
+  "apk_url": "https://off2pay-reminder-sounds.vercel.app/Off2Pay_1.0.1.apk",
 
   "buttons": {
     "update": "Update Now",
