@@ -1,0 +1,29 @@
+{
+  "app": "Off2Pay",
+  "package_name": "com.tgr.off2pay",
+
+  "latest_version": "1.1.0",
+  "version_code": 2,
+
+  "update_available": true,
+  "force_update": false,
+
+  "update_title": "New Off2Pay Update Available",
+
+  "update_message": "A new version of Off2Pay is available with improvements and bug fixes.",
+
+  "release_notes": [
+    "Improved background reminder notifications",
+    "Fixed online and offline reminder sound",
+    "Improved app performance",
+    "Fixed navigation issues",
+    "Enhanced biometric authentication"
+  ],
+
+  "apk_url": "https://example.com/Off2Pay-v1.1.0.apk",
+
+  "buttons": {
+    "update": "Update Now",
+    "later": "Later"
+  }
+}
