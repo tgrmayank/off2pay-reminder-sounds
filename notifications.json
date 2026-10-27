@@ -1,0 +1,32 @@
+{
+  "app": "Off2Pay",
+  "enabled": true,
+  "notifications": [
+    {
+      "id": "OFF001",
+      "enabled": true,
+      "type": "promotion",
+      "title": "Hello Off2Pay Users! 👋",
+      "message": "Aaj kitna kharcha ho gaya? Open Off2Pay and check your expenses!",
+      "big_text": "Track your daily spending with Off2Pay. Open the app to view your expense summary.",
+      "image_url": "",
+      "action": "open_app",
+      "priority": "normal",
+      "send_after": "2026-10-28T09:00:00+05:30",
+      "expires_at": "2026-11-05T23:59:00+05:30"
+    },
+    {
+      "id": "OFF002",
+      "enabled": false,
+      "type": "announcement",
+      "title": "Something New is Coming!",
+      "message": "Exciting new features are coming to Off2Pay.",
+      "big_text": "Stay tuned for the next Off2Pay update.",
+      "image_url": "",
+      "action": "open_app",
+      "priority": "normal",
+      "send_after": "2026-10-29T10:00:00+05:30",
+      "expires_at": "2026-11-10T23:59:00+05:30"
+    }
+  ]
+}
