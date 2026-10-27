@@ -1,19 +1,14 @@
 {
-  "app": "Off2Pay",
-  "enabled": true,
   "notifications": [
     {
-      "id": "TEST1001",
+      "id": "OFFTEST1003",
       "enabled": true,
-      "type": "promotion",
-      "title": "Hello Off2Pay Users! 👋",
-      "message": "Aaj kitna kharcha ho gaya?",
-      "big_text": "Open Off2Pay and check your expenses!",
-      "image_url": "",
-      "action": "open_app",
-      "priority": "high",
-      "send_after": "2026-10-01T00:00:00+05:30",
-      "expires_at": "2026-12-31T23:59:00+05:30"
+      "title": "Off2Pay Reminder 🔔",
+      "message": "Your reminder notification is working!",
+      "big_text": "Off2Pay background notification test successful. Your app can receive reminders while running in the background.",
+      "send_after": "2026-10-28T00:30:00+05:30",
+      "expires_at": "2026-11-30T23:59:59+05:30",
+      "priority": "high"
     }
   ]
 }
