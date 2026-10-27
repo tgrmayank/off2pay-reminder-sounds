@@ -1,12 +1,22 @@
 {
   "notifications": [
     {
-      "id": "OFFTEST1003",
+      "id": "OFF2PAY_INSTANT_1001",
       "enabled": true,
       "title": "Off2Pay Reminder 🔔",
-      "message": "Your reminder notification is working!",
-      "big_text": "Off2Pay background notification test successful. Your app can receive reminders while running in the background.",
+      "message": "Welcome back! Your Off2Pay notification system is active.",
+      "big_text": "Instant notification test successful. Off2Pay has checked for new notifications.",
       "send_after": "2026-10-28T00:30:00+05:30",
+      "expires_at": "2026-11-30T23:59:59+05:30",
+      "priority": "high"
+    },
+    {
+      "id": "OFF2PAY_BACKGROUND_1002",
+      "enabled": true,
+      "title": "Off2Pay Background Reminder 🔔",
+      "message": "Your background notification is working!",
+      "big_text": "This is a separate background notification test from Off2Pay.",
+      "send_after": "2026-10-28T00:51:00+05:30",
       "expires_at": "2026-11-30T23:59:59+05:30",
       "priority": "high"
     }
