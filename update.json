@@ -1,21 +1,25 @@
 {
   "app": "Off2Pay",
   "package_name": "com.tgr.off2pay",
-  "latest_version": "1.1.0",
-  "version_code": 3,
-  "update_available": false,
+  "latest_version": "1.0.3",
+  "version_code": 4,
+  "update_available": true,
   "force_update": false,
-  "update_title": "New Off2Pay Update Available",
-  "update_message": "A new version of Off2Pay is available.",
+  "update_title": "Off2Pay v1.0.3 Is Here!",
+  "update_message": "A new Off2Pay update is available with improved features, better stability and a smoother experience.",
   "release_notes": [
-    "Improved background reminders",
-    "Fixed online and offline sounds",
-    "Improved app performance",
-    "Fixed navigation issues"
+    "Added 100 scheduled Hinglish promotional notifications",
+    "Improved background notification scheduling",
+    "Enhanced Profile Details and Edit options",
+    "Added WhatsApp Support",
+    "Added Privacy Policy and Terms & Conditions",
+    "Added mandatory agreement during account creation",
+    "Improved app version display",
+    "Minor bug fixes and performance improvements"
   ],
-  "apk_url": "https://off2pay-reminder-sounds.vercel.app/Off2Pay_1.0.1.apk",
+  "apk_url": "https://off2pay-reminder-sounds.vercel.app/Off2Pay_1.0.3.apk",
   "buttons": {
     "update": "Update Now",
-    "later": "Later"
+    "later": "Maybe Later"
   }
 }
