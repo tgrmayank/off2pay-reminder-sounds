@@ -1,0 +1,28 @@
+{
+  "app": "Off2Pay",
+  "schema_version": 1,
+  "enabled": true,
+  "notifications": [
+    {
+      "id": "GH_TEST_001",
+      "enabled": true,
+      "title": "Welcome to Off2Pay!",
+      "message": "Aapka Off2Pay notification system successfully connected hai.",
+      "delay_seconds": 30
+    },
+    {
+      "id": "GH_TEST_002",
+      "enabled": true,
+      "title": "Smart Payment Reminder",
+      "message": "Apne important payments aur expenses Off2Pay mein manage karein.",
+      "delay_seconds": 60
+    },
+    {
+      "id": "GH_TEST_003",
+      "enabled": true,
+      "title": "Off2Pay Special Update",
+      "message": "Internet band hone ke baad bhi downloaded reminders phone mein saved rahenge.",
+      "delay_seconds": 120
+    }
+  ]
+}
