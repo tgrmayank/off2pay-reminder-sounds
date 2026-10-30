@@ -4,25 +4,74 @@
   "enabled": true,
   "notifications": [
     {
-      "id": "GH_TEST_001",
+      "id": "WORK_001",
       "enabled": true,
-      "title": "Welcome to Off2Pay!",
-      "message": "Aapka Off2Pay notification system successfully connected hai.",
+      "title": "🚀 Welcome Back!",
+      "message": "Your productivity journey starts now. Stay focused and achieve your goals!",
+      "delay_seconds": 5
+    },
+    {
+      "id": "WORK_002",
+      "enabled": true,
+      "title": "💼 Time to Get Things Done!",
+      "message": "Organize your daily work and complete your important tasks on time.",
+      "delay_seconds": 10
+    },
+    {
+      "id": "WORK_003",
+      "enabled": true,
+      "title": "⏰ Stay on Schedule!",
+      "message": "Every minute matters! Keep track of your work and manage your time wisely.",
+      "delay_seconds": 15
+    },
+    {
+      "id": "WORK_004",
+      "enabled": true,
+      "title": "🎯 Focus on Your Goals!",
+      "message": "Small daily efforts lead to big achievements. Keep moving forward!",
+      "delay_seconds": 20
+    },
+    {
+      "id": "WORK_005",
+      "enabled": true,
+      "title": "🔥 Keep Your Momentum!",
+      "message": "Don't stop now! Stay consistent and make today productive.",
+      "delay_seconds": 25
+    },
+    {
+      "id": "WORK_006",
+      "enabled": true,
+      "title": "📊 Track Your Progress!",
+      "message": "Check your activities and see how much progress you have made today.",
       "delay_seconds": 30
     },
     {
-      "id": "GH_TEST_002",
+      "id": "WORK_007",
       "enabled": true,
-      "title": "Smart Payment Reminder",
-      "message": "Apne important payments aur expenses Off2Pay mein manage karein.",
-      "delay_seconds": 60
+      "title": "💡 Work Smarter!",
+      "message": "Plan your tasks, avoid distractions, and make every effort count.",
+      "delay_seconds": 35
     },
     {
-      "id": "GH_TEST_003",
+      "id": "WORK_008",
       "enabled": true,
-      "title": "Off2Pay Special Update",
-      "message": "Internet band hone ke baad bhi downloaded reminders phone mein saved rahenge.",
-      "delay_seconds": 120
+      "title": "🏆 Success Starts Today!",
+      "message": "Your dedication makes a difference. Keep working towards success!",
+      "delay_seconds": 40
+    },
+    {
+      "id": "WORK_009",
+      "enabled": true,
+      "title": "🌟 Stay Motivated!",
+      "message": "Believe in your efforts. Every completed task brings you closer to your goals.",
+      "delay_seconds": 45
+    },
+    {
+      "id": "WORK_010",
+      "enabled": true,
+      "title": "✅ Make Today Count!",
+      "message": "Finish your pending tasks and end your day with a sense of achievement!",
+      "delay_seconds": 50
     }
   ]
 }
